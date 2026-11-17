@@ -76,7 +76,7 @@ Four binary semaphores protect shared resources and signal events:
 [POT] 1.65 V (ADC:512) | Samples:1
 ```
 
-The values above are illustrative. Replace them with a capture from your own board.
+
 
 ## Notes
 
